@@ -1,4 +1,27 @@
 # Swift-Mart-Sales-Analysis
+# Table of Contents
+
+* [SWIFT MART SALES ANALYSIS DASHBOARD](#swift-mart-sales-analysis-dashboard)
+
+  * [Project Overview](#project-overview)
+  * [Dataset Information](#dataset-information)
+  * [Dashboard Features](#dashboard-features)
+
+    * [Executive KPI Metrics](#executive-kpi-metrics)
+    * [Product Performance Analysis](#product-performance-analysis)
+    * [Regional Sales Analysis](#regional-sales-analysis)
+    * [Customer Insights](#customer-insights)
+    * [Operational Performance Analysis](#operational-performance-analysis)
+  * [Key Business Insights](#key-business-insights)
+
+    * [Revenue Performance](#revenue-performance)
+    * [Customer Behavior](#customer-behavior)
+    * [Product Insights](#product-insights)
+    * [Operational Insights](#operational-insights)
+  * [Tools & Technologies Used](#tools--technologies-used)
+  * [Project Objectives](#project-objectives)
+  * [Conclusion](#conclusion)
+
 ## Project Overview
 
 The **Swift Mart Sales Analysis Dashboard** is a data analytics project designed to monitor and evaluate sales performance across different regions, product categories, customer segments, and payment methods.

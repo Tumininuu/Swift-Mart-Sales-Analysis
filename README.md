@@ -66,6 +66,11 @@ The dashboard displays key performance indicators including:
 * Average Order Value
 * Percentage of Returned Orders
 
+<img width="794" height="572" alt="swiftmart capture 1" src="https://github.com/user-attachments/assets/c1a57622-6d10-4582-bb0a-5382d3ba5184" />
+
+<img width="791" height="559" alt="swiftmart capture 2" src="https://github.com/user-attachments/assets/e58b4722-e1b4-45a7-a8b1-13041a008cd9" />
+
+
 ---
 
 ## 2. Product Performance Analysis
